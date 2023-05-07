@@ -1,0 +1,11 @@
+{
+  "name": "lumo-lotery",
+  "version": "1.0.0",
+  "description": "it is a lottery contract for lumos labs wizard selection process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sameer",
+  "license": "MIT"
+}
